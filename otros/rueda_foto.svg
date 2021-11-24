@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="373.64676"
+   height="373.64679"
+   viewBox="0 0 98.860703 98.86071"
+   version="1.1"
+   id="svg135932"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="rueda_foto.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview135934"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="-42.426407"
+     inkscape:cy="217.78889"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       position="-490.54636,743.57833"
+       orientation="1,0"
+       id="guide136044" />
+    <sodipodi:guide
+       position="589.40705,743.57833"
+       orientation="1,0"
+       id="guide136315" />
+    <sodipodi:guide
+       position="49.797213,314.92688"
+       orientation="1,0"
+       id="guide138673" />
+    <sodipodi:guide
+       position="589.41755,337.16176"
+       orientation="1,0"
+       id="guide138924" />
+    <sodipodi:guide
+       position="-490.16086,337.16176"
+       orientation="1,0"
+       id="guide139002" />
+  </sodipodi:namedview>
+  <defs
+     id="defs135929">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10145"
+       x="-0.019233429"
+       y="-0.02144702"
+       width="1.0384669"
+       height="1.042894">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="18.057875"
+         id="feGaussianBlur10147" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-490.70196,-214.854)">
+    <path
+       style="fill:#4ecca3;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter10145)"
+       d="M 5872.7802,536.97478 V 1821.7651 l 259.0727,152.3726 -0.03,583.5793 H 3878.5418 V 536.97472 Z"
+       id="path9882"
+       transform="matrix(0.26458333,0,0,0.26458333,-450.42642,151.75674)" />
+    <path
+       id="path36122-8"
+       style="fill:#ffffff;fill-opacity:1;stroke:#950101;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 490.70196,264.28437 a 49.430333,49.430326 0 0 0 49.4303,49.43034 49.430333,49.430326 0 0 0 49.4304,-49.43034 49.430333,49.430326 0 0 0 -49.4304,-49.43037 49.430333,49.430326 0 0 0 -49.4303,49.43037 z m 8.5225,0 a 40.907862,40.907858 0 0 1 40.9078,-40.90786 40.907862,40.907858 0 0 1 40.9079,40.90786 40.907862,40.907858 0 0 1 -40.9079,40.90783 40.907862,40.907858 0 0 1 -40.9078,-40.90783 z" />
+  </g>
+</svg>
